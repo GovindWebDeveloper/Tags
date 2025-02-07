@@ -118,7 +118,7 @@ const App = () => {
         />
       ) : (
         <Tag style={tagPlusStyle} icon={<PlusOutlined />} onClick={showInput}>
-          New Tag
+          This is new Tag
         </Tag>
       )}
     </Flex>
